@@ -95,4 +95,4 @@ Sprite IDs 1–921 — see the [FiveM blip reference](https://docs.fivem.net/doc
 
 ## Links
 
-- Discord: https://discord.gg/bErPEKvRXg
+- Discord: https://discord.gg/ReEE9HgA4c

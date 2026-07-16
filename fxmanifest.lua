@@ -4,7 +4,7 @@ lua54 'yes'
 
 name 'filo_blips'
 author 'filo studios.'
-discord 'https://discord.gg/bErPEKvRXg'
+discord 'https://discord.gg/ReEE9HgA4c'
 description 'Blip manager for FiveM — create personal and server-wide map blips in-game with full sprite, color, scale, and coordinate control.'
 version '1.0.2'
 
